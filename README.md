@@ -226,6 +226,7 @@
 
 `anup@ubuntu-22041-100-REALMREGAL:~/backend-9090$ ./bin/startup.sh`
 
+<br>
 
 ### Update System and Installing Apache - https://ubuntu.com/tutorials/install-and-configure-apache#1-overview
 
